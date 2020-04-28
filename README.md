@@ -3,7 +3,7 @@
 The exercise template defines an Agent class, having a first name and last name. A `printout` method is defined for the class that creates the following string representation.
 
 ```python
-bond = new Agent("James", "Bond")
+bond = Agent("James", "Bond")
 bond.printout()
 ```
 
