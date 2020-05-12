@@ -5,4 +5,4 @@ class Agent:
         self.last_name = last_name
 
     def printout(self):
-        print("My name is " + last_name + ", " + first_name + last_name)
+        print("My name is " + self.last_name + ", " + self.first_name + " " + self.last_name")
